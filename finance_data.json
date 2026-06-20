@@ -1,0 +1,39 @@
+{
+    "cash_accounts": {
+        "Wells Fargo Checking": 867.76,
+        "Wells Fargo Savings": 67.57,
+        "Capital One Savings": 1091.66
+    },
+    "credit_cards": {
+        "Wells Fargo Active Cash": {
+            "balance": 801.59,
+            "limit": 4000.0
+        },
+        "Capital One Savor": {
+            "balance": 1091.66,
+            "limit": 3968.04
+        }
+    },
+    "investments": {
+        "Acorns Invest": 403.49,
+        "Acorns Roth IRA": 39.09
+    },
+    "credit_scores": [
+        {
+            "date": "2026-04-01",
+            "score": 573
+        },
+        {
+            "date": "2026-05-28",
+            "score": 597
+        },
+        {
+            "date": "2026-06-01",
+            "score": 600
+        },
+        {
+            "date": "2026-06-12",
+            "score": 604
+        }
+    ]
+}
